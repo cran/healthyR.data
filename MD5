@@ -1,10 +1,13 @@
-f7a06f846603969691f179efc2fac75c *DESCRIPTION
+79924293beee752845a6e7cf4d5310ec *DESCRIPTION
 7da13aa4161d5e7b4503e575f24a0bb6 *LICENSE
 b5b2e20c75457107297b566908b8c29d *NAMESPACE
-e10029a8edc8034062db0618cd195679 *NEWS.md
+d0253017900803ded5440714a42943f1 *NEWS.md
 aaf7552b2b97abf8b6473e7c1505d246 *R/data_files.R
-aa5424a517efe932667eb0ec1701ba71 *README.md
+249e6a5e4c94feaf26e61839cdc45f6a *R/zzz.R
+5303060f6166c8649cb5a09b4f4dd340 *README.md
 e7e53ab016d22546126c9f8b0f9c1f91 *data/healthyR_data.rda
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
-54f933d52f73e290f3c299e8a696bd17 *man/figures/healthyR_data_logo.png
+0f27594831e9481339ca7d7311acc11d *man/figures/test1.png
+5058dacc277842409fc047c6f3b1a7de *man/figures/test3.png
+add718d0189dca2ea5c03d0ff52fb15d *man/figures/test4.png
 a7544b22c0015ff2eed8891920f80aff *man/healthyR_data.Rd
