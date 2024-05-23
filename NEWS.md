@@ -1,10 +1,23 @@
+# healthyR.data 1.1.0
+
+## Breaking Changes
+None
+
+## New Function
+1. Fix #77 - Add function `get_cms_meta_data()`
+2. Fix #82 - Add function `get_provider_meta_data()`
+3. Fix #89 - Add functions `fetch_cms_data()`, `fetch_provider_data()`
+
+## Minor Fixes and Improvements
+1. Fix #72 - Fix bug in directory file paths for `current_hosp_data()`
+
 # healthyR.data 1.0.3
 
 ## Breaking Changes
 1. Require R version 3.4.0 in keeping with tidyverse practices.
 
 ## New Functions
-1. Fix #12 - Add function `dl_hosp_data_dict()`
+1. Fix #12 - Add function `current_hosp_data_dict()`
 2. Fix #10 - Add function `current_hosp_data()`
 3. Fix #22 - Add function `current_asc_data()`
 4. Fix #28 - Add function `current_asc_oas_cahps_data()`
