@@ -1,7 +1,7 @@
-2fd2257f0a9d4cc2285121a51f1b29a7 *DESCRIPTION
+77f9736be48eb600b1a0329cb5725db9 *DESCRIPTION
 7da13aa4161d5e7b4503e575f24a0bb6 *LICENSE
 25d85797a80ebb67fdfd850d60e73fa7 *NAMESPACE
-2d66f6a72a1edbdc61a82aff1893d591 *NEWS.md
+bd272444ae739b2d4541c864ff8ba75d *NEWS.md
 309168b7ce91d0f119f9686c297f5429 *R/00-global-variables.R
 aaf7552b2b97abf8b6473e7c1505d246 *R/data_files.R
 b1de36889dfcc6c5b562317b2b311c8e *R/dl-cms-data.R
@@ -29,9 +29,9 @@ e57c99c7a3071e6b77715e5cb5609264 *R/get-cur-pchhai-hosp-data.R
 1496aaf9d5a534e94957a009de2105d0 *R/get-cur-va-data.R
 343be000592e0a092b564407a37c2cd2 *R/meta-get-cms-data.R
 df302bbad124753c8d2a6c3490f6b9a7 *R/meta-get-provider-data.R
-cc4b4d325ea0f6517714463249e88dcf *R/utils-valid-url.R
+0200d54583d74377f253aa4b07e9e7fc *R/utils-valid-url.R
 249e6a5e4c94feaf26e61839cdc45f6a *R/zzz.R
-e4c7559758d491c0875d57cfd1032aab *README.md
+42df519b2ada1995f6679fb865e02892 *README.md
 e7e53ab016d22546126c9f8b0f9c1f91 *data/healthyR_data.rda
 425fa73b43575704cace4f53eca75a26 *man/current_asc_data.Rd
 a33720eaa37d8e8609418e07ab7243c8 *man/current_asc_oas_cahps_data.Rd

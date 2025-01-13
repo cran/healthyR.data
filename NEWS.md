@@ -1,9 +1,20 @@
+# healthyR.data 1.2.0
+
+## Breaking Changes
+None
+
+## New Functions
+None
+
+## Minor Fixes and Improvements
+1. #116 Fix for httr2 from @hadley
+
 # healthyR.data 1.1.1
 
 ## Breaking Changes
 1. Fix #111 - Requires R version 4.1.0 or higher.
 
-## New Function
+## New Functions
 1. Fix #102 - Add function `is_valid_url()`
 
 ## Minor Fixes and Improvements
